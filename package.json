@@ -1,9 +1,9 @@
 {
     "dependencies": {
-        "lib.espressif.esp8266wifi": "r2.1.0",
-        "sys.zerynth.esptool": "r2.1.0",
-        "sys.zerynth.xtensalx106": "r2.1.0",
-        "vhal.zerynth.xtensalx106_esp8266": "r2.1.0"
+        "lib.espressif.esp8266wifi": "r2.1.1",
+        "sys.zerynth.esptool": "r2.1.1",
+        "sys.zerynth.xtensalx106": "r2.1.1",
+        "vhal.zerynth.xtensalx106_esp8266": "r2.1.1"
     },
     "description": "Add support for Adafruit Feather Huzzah",
     "fullname": "board.zerynth.adafruit_feather_huzzah",
@@ -21,6 +21,6 @@
     ],
     "repo": "official",
     "title": "Adafruit Feather Huzzah with esp8266 Support Package",
-    "version": "r2.1.0",
+    "version": "r2.1.1",
     "whatsnew": ""
 }
