@@ -1,0 +1,14 @@
+---
+description: Add support for Adafruit Feather Huzzah
+fullname: board.zerynth.adafruit_feather_huzzah
+info:
+    board: Adafruit Feather Huzzah
+    chip_manufacturer: Espressif
+    device: esp8266
+    family_type: Xtensa lx106
+keywords:
+- espressif
+- esp8266
+- board
+title: Adafruit Feather Huzzah with esp8266 Support Package
+...
